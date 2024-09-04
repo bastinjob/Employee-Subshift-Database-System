@@ -32,7 +32,7 @@ The **Employee Schedule Management System** is an automated solution designed to
 │   ├── ER_model.png              # ER diagram of the database
 │   └── requirements.md           # Project requirements and specifications
 └── README.md                     # Project documentation
-
+```
 
 ## Getting Started
 
