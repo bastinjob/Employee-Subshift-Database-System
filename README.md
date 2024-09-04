@@ -20,7 +20,18 @@ The **Employee Schedule Management System** is an automated solution designed to
 
 ## Project Structure
 
-├── database │ ├── schema.sql # SQL scripts for creating the database schema │ ├── procedures.sql # SQL scripts for stored procedures │ └── views.sql # SQL scripts for views and complex queries ├── powerapp │ ├── app_design.md # Documentation for the PowerApp interface design │ └── screenshots # Folder containing screenshots of the PowerApp interface ├── docs │ ├── ER_model.png # ER diagram of the database │ └── requirements.md # Project requirements and specifications └── README.md # Project documentation
+
+├── database
+│   ├── schema.sql                # SQL scripts for creating the database schema
+│   ├── procedures.sql            # SQL scripts for stored procedures
+│   └── views.sql                 # SQL scripts for views and complex queries
+├── powerapp
+│   ├── app_design.md             # Documentation for the PowerApp interface design
+│   └── screenshots               # Folder containing screenshots of the PowerApp interface
+├── docs
+│   ├── ER_model.png              # ER diagram of the database
+│   └── requirements.md           # Project requirements and specifications
+└── README.md                     # Project documentation
 
 
 ## Getting Started
