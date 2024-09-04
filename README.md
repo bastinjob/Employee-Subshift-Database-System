@@ -20,7 +20,7 @@ The **Employee Schedule Management System** is an automated solution designed to
 
 ## Project Structure
 
-
+```plaintext
 ├── database
 │   ├── schema.sql                # SQL scripts for creating the database schema
 │   ├── procedures.sql            # SQL scripts for stored procedures
