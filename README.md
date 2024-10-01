@@ -1,5 +1,3 @@
-# Capstone Project Repository
-
 ## Overview
 This repository contains the resources and scripts for the Capstone Project on employee scheduling management. The project focuses on optimizing shift management through a structured database solution, ensuring efficient scheduling and resource allocation within organizations.
 
